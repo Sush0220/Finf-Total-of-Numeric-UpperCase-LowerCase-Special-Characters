@@ -1,0 +1,1 @@
+# Finf-Total-of-Numeric-UpperCase-LowerCase-Special-Characters
